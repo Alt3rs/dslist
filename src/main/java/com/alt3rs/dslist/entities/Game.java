@@ -1,4 +1,4 @@
-package entities;
+package com.alt3rs.dslist.entities;
 
 
 import jakarta.persistence.Column;
