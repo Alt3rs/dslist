@@ -29,26 +29,13 @@ This application is a REST API for managing a list of games. The games are organ
    ```
 2. 📂 Access the project directory:
    ```bash
-   cddslist
+   cd dslist
    ```
 3. ⚙️ Configure the 🗄️ database in `application.properties` or `application.yml`.
 4. ▶️ Compile and run the project:
    ```bash
    mvn spring-boot:run
    ```## 🚀 Installation
-1. 📥 Clone the repository:
-   ```bash
-   git clone https://github.com/devsuperior/dslist-backend.git
-   ```
-2. 📂 Access the project directory:
-   ```bash
-   cddslist
-   ```
-3. ⚙️ Configure the 🗄️ database in `application.properties` or `application.yml`.
-4. ▶️ Compile and run the project:
-   ```bash
-   mvn spring-boot:run
-   ```
    
 ## 🔗 Main Endpoints
 - `GET /games` - 📜 Returns the complete 📋 list of 🎮 games with just a few pieces of information.
